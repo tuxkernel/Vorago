@@ -59,5 +59,6 @@ BREATHING LED LIGHT FAST
 55 01 03 00 00 00 00 00
 
 FACTORY RESET (DPI 800, POLLING RATE 500 HZ, LED ON, LED LIGHT HIGH, BREATHING LED LIGHT FAST):
+
 51 01 03 00 00 00 00 00 <-- Try through trial/Error or TODO or values according Windows XP VM
 52 01 03 00 00 00 00 00 <-- Try through trial/Error or TODO or values according Windows XP VM
