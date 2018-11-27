@@ -2,4 +2,4 @@
 
 Tools for Mouse Vorago 404 under GNU/Linux
 
-Coming soon... (Procrastination)
+Coming soon...
