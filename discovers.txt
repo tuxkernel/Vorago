@@ -1,0 +1,8 @@
+
+| source | Destination | Protocol | Length | INFO
+
+| 1.4.2 | Host | USB | 82 | URB_BULK In |
+
+f0 00 02 00 00 00 00 0a  00 aa 55 40 3a 00 00 00 <-- Letfover Capture data (Always the same)
+
+
