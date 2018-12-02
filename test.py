@@ -4,7 +4,7 @@ import usb.core
 import usb.util
 
 # find the device
-dev = usb.core.find(idVendor=0x1d57, idProduct=0x1101)
+dev = usb.core.find(idVendor=0x1d57, idProduct=0xfa0a)
 
 # detach the kernel driver
 dev.detach_kernel_driver(1)
