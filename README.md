@@ -12,4 +12,8 @@ http://www.voragolive.com/mouse-404.php
 
 http://www.voragolive.com/manuales/mo-404.pdf
 
+# Technical specs:
+
+http://www.voragolive.com/fichas/ficha-mouse-optico-vorago-MO-404.pdf
+
 Coming soon...
