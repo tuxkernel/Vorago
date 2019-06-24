@@ -1,4 +1,4 @@
-# vorago-mouse-404
+# Vorago 404 gaming mouse
 
 User-space tools for Vorago 404 gaming mouse under GNU/Linux
 
