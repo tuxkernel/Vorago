@@ -20,4 +20,6 @@ http://www.voragolive.com/fichas/ficha-mouse-optico-vorago-MO-404.pdf
 
 http://www.voragolive.com/drivers/mouse/mo-404.rar
 
-User-space tools for Vorago 404 "gaming mouse" under GNU/Linux. Coming soon... ;-)´
+User-space tools for Vorago 404 "gaming mouse" under GNU/Linux.
+
+Coming soon... ;-)´
