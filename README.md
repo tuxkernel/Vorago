@@ -1,5 +1,7 @@
 # vorago-mouse-404
 
-Tools for Mouse Vorago 404 under GNU/Linux
+User-space tools for Vorago 404 gaming mouse under GNU/Linux
+
+![Sample Run](https://github.com/tuxkernel/vorago-gaming-mouse-404/blob/master/images/00.png)
 
 Coming soon...
