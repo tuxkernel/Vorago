@@ -2,7 +2,7 @@
 
 ![Sample Run](https://github.com/tuxkernel/vorago-gaming-mouse-404/blob/master/images/00.png)
 
-# Enable mouse polling rate (1000 Hz)
+## Enable mouse polling rate (1000 Hz)
 
 ### Method one:
 
@@ -54,7 +54,7 @@ Login. Open a terminal and type:
 
 If you get "1", then mouse polling rate (1000 Hz) is enabled.
 
-# Fix hid-generic 0003:1D57:FA0A.0002: usb_submit_urb(ctrl) failed: -1
+## Fix hid-generic 0003:1D57:FA0A.0002: usb_submit_urb(ctrl) failed: -1
 
 Open a terminal and type:
 
@@ -76,5 +76,3 @@ Save and exit.
 - `$ sudo reboot`
 
 Tools for Vorago 404 "gaming mouse" under GNU/Linux. Coming soon... ;-)´
-
-# Tuxkernel...
