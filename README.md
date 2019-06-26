@@ -63,7 +63,7 @@ If you get "1", then mouse polling rate (1000 Hz) is ENABLED.
 - `cd evhz-master/`	
 - `./run`	
 
- Then move Vorago 404 "gaming mouse" to check polling rate.
+ Then move Vorago 404 "gaming mouse" to check polling rate. Press CTRL-C to exit.
 
 ## Fix hid-generic 0003:1D57:FA0A.0002: usb_submit_urb(ctrl) failed: -1
 
