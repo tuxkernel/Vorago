@@ -19,7 +19,7 @@ Save and exit.
 
 `$ sudo reboot`
 
-Login. Open a terminal and type:
+You can check mouse polling rate, opening a terminal and typing:
 
 - `$ cd /`
 - `$ cat sys/module/usbhid/parameters/mousepoll`
@@ -47,7 +47,7 @@ Save and exit.
 - `$ sudo update-grub2`
 - `$ sudo reboot`
 
-Login. Open a terminal and type:
+You can check mouse polling rate, opening a terminal and typing:
 
 - `$ cd /`
 - `$ cat sys/module/usbhid/parameters/mousepoll`
