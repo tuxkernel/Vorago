@@ -54,7 +54,7 @@ You can check mouse polling rate, opening a terminal and typing:
 
 If you get "1", then mouse polling rate (1000 Hz) is ENABLED.
 
-## Checking mouse polling rate in real-time with evhz program
+## Checking mouse polling rate in real-time with evhz
 
 Open a terminal and type:
 
