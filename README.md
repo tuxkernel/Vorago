@@ -24,7 +24,7 @@ You can check mouse polling rate, opening a terminal and typing:
 - `cd /`
 - `cat sys/module/usbhid/parameters/mousepoll`
 
-If you get "1", then mouse polling rate (1000 Hz) is enabled.
+If you get "1", then mouse polling rate (1000 Hz) is ENABLED.
 
 ### Method two:
 
@@ -52,7 +52,7 @@ You can check mouse polling rate, opening a terminal and typing:
 - `cd /`
 - `cat sys/module/usbhid/parameters/mousepoll`
 
-If you get "1", then mouse polling rate (1000 Hz) is enabled.
+If you get "1", then mouse polling rate (1000 Hz) is ENABLED.
 
 ## Checking mouse polling rate in real-time with evhz program
 
