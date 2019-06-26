@@ -4,7 +4,7 @@
 
 ## Enable mouse polling rate (1000 Hz)
 
-### Method one:
+### Method one (through `etc/modprobe.d/`):
 
 Open a terminal and type:
 
@@ -26,7 +26,7 @@ You can check your mouse polling rate, opening a terminal and typing:
 
 If you get "1", then mouse polling rate (1000 Hz) is ENABLED.
 
-### Method two:
+### Method two (via kernel module parameter):
 
 Open a terminal and type:
 
