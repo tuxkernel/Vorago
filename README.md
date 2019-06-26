@@ -40,4 +40,4 @@ Save and exit.
 - `$ sudo update-grub2`
 - `$ sudo reboot`
 
-Tools for Vorago 404 "gaming mouse" under Gnu/Linux. Coming soon... ;-)´
+Tools for Vorago 404 "gaming mouse" under GNU/Linux. Coming soon... ;-)´
