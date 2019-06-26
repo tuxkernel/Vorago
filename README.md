@@ -22,4 +22,6 @@ http://www.voragolive.com/drivers/mouse/mo-404.rar
 
 Tools for Vorago 404 "gaming mouse" under GNU/Linux.
 
+## Fix `hid-generic 0003:1D57:FA0A.0002: usb_submit_urb(ctrl) failed: -1`
+
 Coming soon... ;-)´
