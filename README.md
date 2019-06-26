@@ -8,8 +8,8 @@
 
 Open a terminal and type:
 
-- `$ cd /`
-- `$ sudo pluma etc/modprobe.d/usbhid.conf`
+- `cd /`
+- `sudo pluma etc/modprobe.d/usbhid.conf`
 
 In that file, add the following:
 
@@ -17,12 +17,12 @@ In that file, add the following:
 
 Save and exit.
 
-`$ sudo reboot`
+`sudo reboot`
 
 You can check mouse polling rate, opening a terminal and typing:
 
-- `$ cd /`
-- `$ cat sys/module/usbhid/parameters/mousepoll`
+- `cd /`
+- `cat sys/module/usbhid/parameters/mousepoll`
 
 If you get "1", then mouse polling rate (1000 Hz) is enabled.
 
@@ -30,8 +30,8 @@ If you get "1", then mouse polling rate (1000 Hz) is enabled.
 
 Open a terminal and type:
 
-- `$ cd /`
-- `$ sudo pluma /etc/default/grub`
+- `cd /`
+- `sudo pluma /etc/default/grub`
 
 In that file, look for the line that says `"GRUB_CMDLINE_LINUX_DEFAULT="quiet"` and add the following:
 
@@ -43,14 +43,14 @@ The line should look like this:
 
 Save and exit.
 
-- `$ sudo update-grub`
-- `$ sudo update-grub2`
-- `$ sudo reboot`
+- `sudo update-grub`
+- `sudo update-grub2`
+- `sudo reboot`
 
 You can check mouse polling rate, opening a terminal and typing:
 
-- `$ cd /`
-- `$ cat sys/module/usbhid/parameters/mousepoll`
+- `cd /`
+- `cat sys/module/usbhid/parameters/mousepoll`
 
 If you get "1", then mouse polling rate (1000 Hz) is enabled.
 
@@ -58,10 +58,10 @@ If you get "1", then mouse polling rate (1000 Hz) is enabled.
 
 Open a terminal and type:
 
-- `$ wget https://gitlab.com/iankelling/evhz/-/archive/master/evhz-master.zip`
-- `$ unzip evhz-master.zip`
-- `$ cd evhz-master/`
-- `$ ./run`
+- `wget https://gitlab.com/iankelling/evhz/-/archive/master/evhz-master.zip`
+- `unzip evhz-master.zip`
+- `cd evhz-master/`
+- `./run`
 
 Then move Vorago 404 "gaming mouse" to check polling rate.
 
@@ -69,8 +69,8 @@ Then move Vorago 404 "gaming mouse" to check polling rate.
 
 Open a terminal and type:
 
-- `$ cd /`
-- `$ sudo pluma /etc/default/grub`
+- `cd /`
+- `sudo pluma /etc/default/grub`
 
 In that file, look for the line that says `"GRUB_CMDLINE_LINUX_DEFAULT ="quiet"` and add the following:
 
@@ -82,8 +82,8 @@ The line should look like this:
 
 Save and exit.
 
-- `$ sudo update-grub`
-- `$ sudo update-grub2`
-- `$ sudo reboot`
+- `sudo update-grub`
+- `sudo update-grub2`
+- `sudo reboot`
 
 Tools for Vorago 404 "gaming mouse" under GNU/Linux. Coming soon... ;-)´
