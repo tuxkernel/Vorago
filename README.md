@@ -40,4 +40,25 @@ Save and exit.
 - `$ sudo update-grub2`
 - `$ sudo reboot`
 
+# Fix hid-generic 0003:1D57:FA0A.0002: usb_submit_urb(ctrl) failed: -1
+
+Open a terminal and type:
+
+- `$ cd /`
+- `$ sudo pluma /etc/default/grub`
+
+In that file, look for the line that says `"GRUB_CMDLINE_LINUX_DEFAULT ="quiet"` and add the following:
+
+`usbhid.quirks=0x1D57:0xFA0A:0x20000000`
+
+The line should look like this:
+
+`"GRUB_CMDLINE_LINUX_DEFAULT="usbhid.quirks=0x1D57:0xFA0A:0x20000000"`
+
+Save and exit.
+
+- `$ sudo update-grub`
+- `$ sudo update-grub2`
+- `$ sudo reboot`
+
 Tools for Vorago 404 "gaming mouse" under GNU/Linux. Coming soon... ;-)´
