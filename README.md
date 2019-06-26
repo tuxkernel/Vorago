@@ -1,6 +1,6 @@
 # Tools for Vorago 404 "gaming mouse" under GNU/Linux
 
-![Sample Run](https://github.com/tuxkernel/vorago-gaming-mouse-404/blob/master/images/00.png)
+![Sample Run](https://raw.githubusercontent.com/tuxkernel/Vorago/master/images/00.png)
 
 ## Enable mouse polling rate (1000 Hz)
 
