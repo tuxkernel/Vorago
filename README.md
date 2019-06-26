@@ -54,6 +54,17 @@ You can check mouse polling rate, opening a terminal and typing:
 
 If you get "1", then mouse polling rate (1000 Hz) is enabled.
 
+## Checking mouse polling rate in real-time with evhz program
+
+Open a terminal and type:
+
+- `$ wget https://gitlab.com/iankelling/evhz/-/archive/master/evhz-master.zip`
+- `$ unzip evhz-master.zip`
+- `$ cd evhz-master/`
+- `$ ./run`
+
+Then move Vorago 404 "gaming mouse" to check polling rate.
+
 ## Fix hid-generic 0003:1D57:FA0A.0002: usb_submit_urb(ctrl) failed: -1
 
 Open a terminal and type:
