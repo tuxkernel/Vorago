@@ -2,16 +2,14 @@
 
 ![Sample Run](https://github.com/tuxkernel/vorago-gaming-mouse-404/blob/master/images/00.png)
 
-#### Official Site: http://www.voragolive.com/mouse-404.php
-
 # Enable mouse polling rate (1000 Hz)
 
 ### Method one:
 
 Open a terminal and type:
 
-`$ cd /
-$ sudo pluma etc/modprobe.d/usbhid.conf`
+- `$ cd /`
+- `$ sudo pluma etc/modprobe.d/usbhid.conf`
 
 In that file, add the following:
 
@@ -25,8 +23,8 @@ Save and exit.
 
 Open a terminal and type:
 
-`$ cd /
-$ sudo pluma /etc/default/grub`
+- `$ cd /`
+- `$ sudo pluma /etc/default/grub`
 
 In that file, look for the line that says `"GRUB_CMDLINE_LINUX_DEFAULT="quiet"` and add the following:
 
@@ -38,8 +36,8 @@ The line should look like this:
 
 Save and exit.
 
-`$ sudo update-grub
-$ sudo update-grub2
-$ sudo reboot`
+- `$ sudo update-grub`
+- `$ sudo update-grub2`
+- `$ sudo reboot`
 
-Coming soon... ;-)´
+Tools for Vorago 404 "gaming mouse" under Gnu/Linux. Coming soon... ;-)´
