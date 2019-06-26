@@ -26,7 +26,7 @@ You can check your mouse polling rate, opening a terminal and typing:
 
 If you get "1", then mouse polling rate (1000 Hz) is ENABLED.
 
-### Method two (via kernel module parameter):
+### Method two (via boot kernel module parameter):
 
 Open a terminal and type:
 
