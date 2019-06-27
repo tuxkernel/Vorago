@@ -8,12 +8,12 @@
 
 Open a terminal and type:
 
-- **`cd /`
-- **`sudo pluma etc/modprobe.d/usbhid.conf`
+- **`cd /`**
+- **`sudo pluma etc/modprobe.d/usbhid.conf`**
 
 In that file, add the following:
 
-**`options usbhid mousepoll=1`
+**`options usbhid mousepoll=1`**
 
 Save and exit.
 
