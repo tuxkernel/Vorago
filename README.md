@@ -24,7 +24,7 @@ You can check your mouse polling rate, opening a terminal and typing:
 - **`cd /`**
 - **`cat sys/module/usbhid/parameters/mousepoll`**
 
-If you get "**1**", then mouse polling rate (1000 Hz) is **ENABLED**.
+If you see "**1**", then mouse polling rate (1000 Hz) is **enabled**.
 
 ### Method two (via boot kernel module parameter):
 
@@ -52,7 +52,7 @@ You can check mouse polling rate, opening a terminal and typing:
 - **`cd /`**
 - **`cat sys/module/usbhid/parameters/mousepoll`**
 
-If you get "**1**", then mouse polling rate (1000 Hz) is **ENABLED**.
+If you see "**1**", then mouse polling rate (1000 Hz) is **enabled**.
 
 ## Fix hid-generic 0003:1D57:FA0A.0002: usb_submit_urb(ctrl) failed: -1
 
