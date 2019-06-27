@@ -2,6 +2,8 @@
 
 ![Sample Run](https://raw.githubusercontent.com/tuxkernel/Vorago/master/images/00.png)
 
+## Vendor_ID = 1D57
+
 ## Enable mouse polling rate (1000 Hz)
 
 ### Method one (via `etc/modprobe.d/`):
