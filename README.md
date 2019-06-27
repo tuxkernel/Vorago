@@ -2,7 +2,7 @@
 
 ![Sample Run](https://raw.githubusercontent.com/tuxkernel/Vorago/master/images/00.png)
 
-## Vendor_ID = 1D57
+## lsusb: Bus 005 Device 002: ID 1d57:fa0a Xenta
 
 ## Enable mouse polling rate (1000 Hz)
 
