@@ -19,7 +19,7 @@ Save and exit.
 
 **`sudo reboot`**
 
-You can check your mouse polling rate, opening a terminal and typing:
+You can check mouse polling rate, opening a terminal and typing:
 
 - **`cd /`**
 - **`cat sys/module/usbhid/parameters/mousepoll`**
