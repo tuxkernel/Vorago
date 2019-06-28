@@ -8,7 +8,7 @@
 
 Open a terminal and type:
 
-- `cd /`
+- *`cd /`*
 - `sudo pluma etc/modprobe.d/usbhid.conf`
 
 In that file, add the following:
