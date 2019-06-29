@@ -4,13 +4,7 @@
 
 ## Enable mouse polling rate
 
-{| class="wikitable"
-! Hz
 |1000||500||250||125
-|-
-! ms
-|1|||2||4||8
-|}
 
 ### Method one (via `etc/modprobe.d/`):
 
