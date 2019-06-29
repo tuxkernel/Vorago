@@ -2,8 +2,9 @@
 
 ![Sample Run](https://raw.githubusercontent.com/tuxkernel/Vorago/master/images/00.png)
 
-## VENDOR_ID = 1D57
-## PRODUCT_ID = FA0A
+VENDOR_ID = 1D57
+
+PRODUCT_ID = FA0A
 
 ## Understanding mouse polling rate
 
