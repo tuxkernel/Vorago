@@ -22,7 +22,7 @@ In that file, add the following:
 
 Save and exit.
 
-- sudo modprobe -r usbhid && sudo modprobe usbhid
+- `sudo modprobe -r usbhid && sudo modprobe usbhid`
 
 You can check mouse polling rate, opening a terminal and typing:
 
