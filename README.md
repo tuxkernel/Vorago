@@ -51,7 +51,6 @@ Save and exit.
 - `sudo update-grub`
 - `sudo update-grub2`
 - `sudo modprobe -r usbhid && sudo modprobe usbhid`
-- `sudo reboot`
 
 You can check mouse polling rate, opening a terminal and typing:
 
