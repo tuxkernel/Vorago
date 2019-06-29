@@ -2,7 +2,7 @@
 
 ![Sample Run](https://raw.githubusercontent.com/tuxkernel/Vorago/master/images/00.png)
 
-## Understanding mouse polling rate
+## Mouse polling rate explained
 
 - 1000 Hz = `options usbhid mousepoll=1`
 - 500 Hz = `options usbhid mousepoll=2`
