@@ -2,8 +2,6 @@
 
 ![Sample Run](https://raw.githubusercontent.com/tuxkernel/Vorago/master/images/00.png)
 
-## lsusb: Bus 005 Device 002: ID 1d57:fa0a Xenta
-
 ## Understanding mouse polling rate
 
 - 1000 Hz = `options usbhid mousepoll=1`
