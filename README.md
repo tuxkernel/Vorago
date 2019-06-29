@@ -2,9 +2,12 @@
 
 ![Sample Run](https://raw.githubusercontent.com/tuxkernel/Vorago/master/images/00.png)
 
-## Enable mouse polling rate
+## Set mouse polling rate
 
-|1000||500||250||125
+- 1000 Hz = `options usbhid mousepoll=1`
+- 500 Hz = `options usbhid mousepoll=2`
+- 250 Hz = `options usbhid mousepoll=4`
+- 125 Hz = `options usbhid mousepoll=8`
 
 ### Method one (via `etc/modprobe.d/`):
 
