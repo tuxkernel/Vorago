@@ -1,8 +1,0 @@
-CD_ROM
-
-
-// Track 1
-TRACK MODE1_RAW
-NO COPY
-DATAFILE "/home/blackout/Documentos/Vorago-MO-404/Vorago-MO-404.toc.bin" 00:40:28 // length in bytes: 7121856
-
