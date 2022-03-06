@@ -1,0 +1,3 @@
+# python3 and python3-usb
+
+sudo apt install python3 python3-usb
