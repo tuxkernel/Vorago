@@ -1,0 +1,12 @@
+6.678041] usb 5-2: New USB device strings: Mfr=1, Product=1, SerialNumber=0
+[    6.678044] usb 5-2: Product: Mice&MultiKB USB product
+[    6.678047] usb 5-2: Manufacturer: Mice&MultiKB USB product
+[    6.700557] usbcore: registered new interface driver usbhid
+[    6.700559] usbhid: USB HID core driver
+[    6.704096] input: Mice&MultiKB USB product Mice&MultiKB USB product Keyboard as /devices/pci0000:00/0000:00:1d.0/usb5/5-2/5-2:1.0/0003:1D57:FA0A.0001/input/input7
+[    6.762228] hid-generic 0003:1D57:FA0A.0001: input,hiddev0,hidraw0: USB HID v1.10 Keyboard [Mice&MultiKB USB product Mice&MultiKB USB product] on usb-0000:00:1d.0-2/input0
+[    6.762615] input: Mice&MultiKB USB product Mice&MultiKB USB product Consumer Control as /devices/pci0000:00/0000:00:1d.0/usb5/5-2/5-2:1.1/0003:1D57:FA0A.0002/input/input8
+[    6.822031] input: Mice&MultiKB USB product Mice&MultiKB USB product System Control as /devices/pci0000:00/0000:00:1d.0/usb5/5-2/5-2:1.1/0003:1D57:FA0A.0002/input/input9
+[    6.822088] hid-generic 0003:1D57:FA0A.0002: input,hidraw1: USB HID v1.10 Device [Mice&MultiKB USB product Mice&MultiKB USB product] on usb-0000:00:1d.0-2/input1
+[    6.822388] input: Mice&MultiKB USB product Mice&MultiKB USB product as /devices/pci0000:00/0000:00:1d.0/usb5/5-2/5-2:1.2/0003:1D57:FA0A.0003/input/input10
+[    6.822477] hid-generic 0003:1D57:FA0A.0003: input,hidraw2: USB HID v1.10 Mouse [Mice&MultiKB USB product Mice&MultiKB USB product] on usb-0000:00:1d.0-2/input2
