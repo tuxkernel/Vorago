@@ -1,0 +1,1 @@
+Bus 005 Device 002: ID 1d57:fa0a Xenta Mice&MultiKB USB product
